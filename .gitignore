@@ -106,3 +106,11 @@ venv.bak/
 .mypy_cache/
 .DS_Store
 .idea
+insert_sort_blind.py
+mergesort_blind.py
+quick_sort_blind.py
+quick_sort_copy.py
+
+
+
+
